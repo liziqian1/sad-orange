@@ -6,6 +6,8 @@
 
 技术支持：李梓迁。你可以[点我进入那个傻逼的网站](https://liziqian.net)或[点我进入那个傻逼的博客](https://blog.liziqian.net)
 
+粉丝群：![二维码](/groupqr.jpg)
+
 ## 主角设定
 
 于文博 男 年龄不明
