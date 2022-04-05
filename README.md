@@ -1,10 +1,12 @@
 # 伤心砂糖桔 第一季
 
+[第二季现已推出 点我查看](/season2/)
+
 砂糖桔文学。（纯属虚构整活，无恶意）
 
 如有灵感可以联系作者投稿。微信：YuHang080925，邮箱：3442610500@qq.com。
 
-技术支持：李梓迁。你可以[点我进入那个傻逼的网站](https://liziqian.net)或[点我进入那个傻逼的博客](https://blog.liziqian.net)
+技术支持：李梓迁。你可以[点我进入他的网站](https://liziqian.net)或[点我进入他的博客](https://blog.liziqian.net)
 
 粉丝群：![二维码](/groupqr.jpg)
 
