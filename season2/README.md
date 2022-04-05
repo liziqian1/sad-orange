@@ -18,4 +18,4 @@
 
 ## 目录
 
-- [第一章](./chapter1)
+- [第一章](/season2/chapter1)
