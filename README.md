@@ -6,7 +6,9 @@
 
 如有灵感可以联系作者投稿。微信：YuHang080925，邮箱：3442610500@qq.com。
 
-技术支持：李梓迁。你可以[点我进入他的网站](https://liziqian.net)或[点我进入他的博客](https://blog.liziqian.net)
+~~现在他是越来越能缝了~~
+
+技术支持：FunnyStudio。你可以[点我进入他的网站](https://liziqian.net)或[点我进入他的博客](https://blog.liziqian.net)
 
 ## 粉丝群
 
@@ -47,3 +49,4 @@
 - [第二章](/chapter2)
 - [第三章（平行世界）](/chapter3)
 - [第四章［穿越］](/chapter4)
+- [第五章](/chapter5)
